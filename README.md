@@ -1,11 +1,12 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Benjamin%20Black&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20&amp;%20OS%20Developer&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Benjamin%20Black&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=OS%20Developer&descAlignY=55&descAlign=50)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+the+Future+of+Secure+Computing;Merging+Security+with+Elegant+Design)](https://git.io/typing-svg)
 
 </div>
+
 
 
 ---
