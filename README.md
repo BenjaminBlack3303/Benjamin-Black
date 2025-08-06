@@ -156,8 +156,8 @@ philosophy: "Security shouldn't compromise usability"
 
 <div align="center">
 
-<a href="mailto:crocodile.black13@gmail.com">
-<img src="https://img.shields.io/badge/Email-crocodile.black13@gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto: benjmain.black.3303@gmail.com">
+<img src="https://img.shields.io/badge/Email-benjamin.black.3303@gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
